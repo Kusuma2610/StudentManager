@@ -108,7 +108,4 @@ Also, don’t push `node_modules/` or `venv/` to GitHub. They can be recreated a
 
 ---
 
-## 👩‍💻 Made With Simplicity
 
-**Kusuma Kumari**  
-_"That’s what Kusuma is for — clean, complete, and clear coding!"_
